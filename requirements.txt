@@ -1,4 +1,4 @@
-Flask==0.12.1
+Flask==1.0
 certifi==2019.3.9
 chardet==3.0.4
 # contrast-security==0.13

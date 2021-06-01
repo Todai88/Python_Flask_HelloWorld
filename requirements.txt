@@ -1,1 +1,18 @@
 Flask==0.12.1
+certifi==2019.3.9
+chardet==3.0.4
+# contrast-security==0.13
+idna==2.8
+requests==2.21.0
+urllib3==1.24.1
+decorator==4.4.0
+six==1.12.0
+elasticsearch==5.5.3
+boto3
+idps-mgmt-swagger-client==3.71.1
+idps_sdk
+idps-swagger-client==3.71.1
+aws_requests_auth
+requests_aws_sign
+pygments
+cryptography

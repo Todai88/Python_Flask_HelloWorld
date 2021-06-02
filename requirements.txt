@@ -4,7 +4,7 @@ chardet==3.0.4
 # contrast-security==0.13
 idna==2.8
 requests==2.21.0
-urllib3==1.24.1
+urllib3==1.26.5
 decorator==4.4.0
 six==1.12.0
 elasticsearch==5.5.3
